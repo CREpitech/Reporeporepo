@@ -17,4 +17,4 @@ class Cat extends Animal
         echo $this->name. " ". $this->color. " kitty is meowing.\n";
     }     
 }        
-    
+  
