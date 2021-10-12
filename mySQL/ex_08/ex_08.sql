@@ -1,0 +1,1 @@
+select title from movies where genre_id in (8, 13);

@@ -1,0 +1,1 @@
+SELECT title, min_duration FROM coding.movies where min_duration >= 0 order by min_duration asc;

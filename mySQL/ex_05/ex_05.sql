@@ -1,0 +1,1 @@
+SELECT UPPER(name) AS NAME_OF_ALL_THE_GENRES FROM coding.genres;
