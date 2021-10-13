@@ -1,0 +1,1 @@
+select ROUND(AVG(min_duration),0.00) as "Average duration" from coding.movies; 

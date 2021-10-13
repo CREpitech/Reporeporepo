@@ -1,0 +1,1 @@
+Select id, title as "Number of movies that starts with 'eX'" from coding.movies where title like BINARY 'eX%';

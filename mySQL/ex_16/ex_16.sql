@@ -1,0 +1,1 @@
+select id, birthdate, monthname(birthdate) as "month of birth"from coding.profiles where (id between 42 and 84) order by id asc;
