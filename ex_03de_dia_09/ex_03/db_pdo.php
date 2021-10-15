@@ -1,9 +1,9 @@
 <?php
 
-$serverName="localhost";
+/*$serverName="localhost";
 $userName="phpuser";
-$password="Toston.7";
-$dbName="coding";
+$password="****";
+$dbName="coding";*/
 
 
 define("ERROR_LOG_FILE", "/home/cristian-romero/Rendu/C-DEV-111-BAR-1-1-phpday09-cristian.romero/ex_03/error_log.txt");
@@ -29,5 +29,5 @@ catch(PDOException $e){
 
 }
 
-echo "HOLA";
-connect_db($serverName, $dbName, $userName, $password);
+/*echo "HOLA";
+connect_db($serverName, $dbName, $userName, $password);*/
